@@ -410,3 +410,4 @@ if __name__ == "__main__":
         y9 = wiersz[6]
         raport.write(f'{x9:.4f} \t\t {y9:.4f} \n')
     raport.close()
+    print("\n Wyniki zapisano w pliku tekstowym!")
